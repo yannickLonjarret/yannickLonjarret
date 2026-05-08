@@ -1,5 +1,4 @@
 name: Readme stats
-
 on:
   workflow_dispatch:
   push:
@@ -9,9 +8,7 @@ on:
       - 'README.md'
   schedule:
     - cron: 0 0 1 * *
-
 jobs:
-
   generate-cards:
     name: Generate GitHub Stats Cards
     runs-on: ubuntu-latest
