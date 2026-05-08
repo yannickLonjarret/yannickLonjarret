@@ -1,4 +1,5 @@
 # Greetings, I am Yannick 😺
+Research Engineer at Heudiaysyc ◈ MEng in Computer Science (UTC)
 
 
 ## 📂 I mostly use: 
@@ -16,6 +17,39 @@
 
 ## 🌱 I’m currently learning:
 <img src="https://skillicons.dev/icons?i=cmake,qt&theme=dark" />
+
+## 🔗 Current and future projects:
+
+### 🔥 In Progress
+**OOP Card Game**  
+![C++](https://img.shields.io/badge/C++-004482?logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-F32735?logo=cmake&logoColor=white)
+![GTest](https://img.shields.io/badge/GTest-34A853)
+![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3094FF?logo=githubactions&logoColor=white)
+
+Design Patterns, SOLID, RAII, CI/CD.
+
+---
+
+### 📘 Planned
+**Team Orienteering Problem Benchmark**  
+![C++](https://img.shields.io/badge/C++-004482?logo=cplusplus&logoColor=white)
+![Boost](https://img.shields.io/badge/boost-FF9F00?logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-F32735?logo=cmake&logoColor=white)
+![GTest](https://img.shields.io/badge/GTest-34A853)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3094FF?logo=githubactions&logoColor=white)
+
+
+**MAS Simulation**  
+![C++](https://img.shields.io/badge/C++-004482?logo=cplusplus&logoColor=white)
+![Boost](https://img.shields.io/badge/boost-FF9F00?logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-F32735?logo=cmake&logoColor=white)
+![GTest](https://img.shields.io/badge/GTest-34A853?logo=googletest&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-3094FF?logo=githubactions&logoColor=white)
+
+
 
 ## 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ylonjarr/)
