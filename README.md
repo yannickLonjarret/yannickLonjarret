@@ -1,6 +1,10 @@
 # Greetings, I am Yannick 😺
-Research Engineer at Heudiaysyc ◈ MEng in Computer Science (UTC)
+🚀 Research Engineer at Heudiaysyc ◈ MEng in Computer Science (UTC)
 
+## 🌟 About me:
+I build things, break them down, and rebuild them better.
+
+Interested in software architecture, algorithmic performance, and simulation. Currently rebuilding my C++ skills, one project at a time.
 
 ## 📂 I mostly use: 
 
