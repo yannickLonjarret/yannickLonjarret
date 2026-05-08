@@ -8,7 +8,7 @@ Research Engineer at Heudiaysyc ◈ MEng in Computer Science (UTC)
     <img src="./assets/top-langs.svg" alt="Top languages card" />
 </p>
 
-## 📊 My stats
+## 📊 My stats:
 
 <p align="center">
     <img src="./assets/stats.svg" alt="GitHub stats card" />
