@@ -29,7 +29,7 @@ jobs:
           card: stats
           options: username=yannickLonjarret&show_icons=true&count_private=true&theme=codeSTACKr
           path: assets/stats.svg
-          token: ${{ secrets.README_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -37,7 +37,7 @@ jobs:
           card: top-langs
           options: username=yannickLonjarret&hide_progress=true
           path: assets/top-langs.svg
-          token: ${{ secrets.README_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push cards
         run: |
