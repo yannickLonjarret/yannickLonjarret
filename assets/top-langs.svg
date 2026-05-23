@@ -170,7 +170,7 @@
           data-testid="lang-progress"
           x="249.78999999999996"
           y="0"
-          width="10.21"
+          width="10.22"
           height="8"
           fill="#DA3434"
         />
@@ -188,7 +188,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 46.60%
+        C++ 46.59%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -209,7 +209,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#DA3434" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake 0.08%
+        CMake 0.09%
       </text>
     </g>
   </g></g>
