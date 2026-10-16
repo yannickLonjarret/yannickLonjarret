@@ -1,5 +1,5 @@
 # Greetings, I am Yannick 😺
-🚀 Research Engineer at Heudiaysyc ◈ MEng in Computer Science (UTC)
+🚀 Software Engineer at Dassault Systèmes ◈ MEng in Computer Science (UTC)
 
 ## 🌟 About me:
 I build things, break them down, and rebuild them better.
