@@ -21,7 +21,7 @@ jobs:
           ref: main
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=yannickLonjarret&show_icons=true&count_private=true&theme=codeSTACKr
