@@ -260,7 +260,7 @@ p {
         gap: 1rem;
     }
 
-    @media (min-width: 50rem) {
+    @media (min-width: 31rem) {
         #code {
             grid-template-columns: repeat(2, 1fr);
         }
