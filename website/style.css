@@ -6,10 +6,13 @@
     color-scheme: dark;
 
     /* Accent */
+    /* other main accent:
+    --accent: #8f34eb;
+    --accent: #005386;
+    */
     --accent: #FCB61A;
-    --accent-ink: #000000;
     /* text on top of the accent */
-    --accent-soft: rgb(252 182 26 / 0.14);
+    --accent-soft: #fcb61a24;
     /* subtle fills */
 
     /* Ground */
@@ -72,18 +75,21 @@ body {
 
 ::selection {
     background: var(--accent);
-    color: var(--accent-ink);
+    color: var(--black);
 }
 
 a {
     color: var(--accent);
     text-decoration-thickness: 1px;
     text-underline-offset: 0.25em;
+
 }
 
 a:hover {
     color: var(--gray-100);
     text-decoration-color: var(--accent);
+    text-decoration-thickness: 2px;
+    transition: all 0.5s ease;
 }
 
 :focus-visible {
@@ -132,6 +138,7 @@ nav a:hover,
 nav a[aria-current="page"] {
     color: var(--gray-100);
     border-bottom-color: var(--accent);
+    transition: all 0.5s ease;
 }
 
 /* ---------- Page structure ---------- */
@@ -260,9 +267,9 @@ p {
         gap: 1rem;
     }
 
-    @media (min-width: 31rem) {
+    @media (min-width: 50rem) {
         #code {
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: repeat(1, 1fr);
         }
     }
 
@@ -343,7 +350,7 @@ button,
     display: inline-block;
     padding: 0.65rem 1.2rem;
     background: var(--accent);
-    color: var(--accent-ink);
+    color: var(--black);
     border: 0;
     border-radius: var(--radius);
     font: inherit;
@@ -355,7 +362,7 @@ button,
 button:hover,
 .button:hover {
     background: var(--gray-100);
-    color: var(--accent-ink);
+    color: var(--black);
 }
 
 button:disabled {
